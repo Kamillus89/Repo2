@@ -19,3 +19,7 @@ def joke():
     print ('o ho ho ')
     print ('hahaha')
 joke()
+
+def shout():
+    print('AAAAAAAAAAAAAAAa')
+shout()
