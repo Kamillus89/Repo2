@@ -6,6 +6,7 @@ introduce()
 def add(a,b):
         a = float(a)
         b = float(b)
+        print("Wynik:")
         print(a+b)
 
 a = input("Podaj a = ")
