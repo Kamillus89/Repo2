@@ -15,5 +15,6 @@ add(a,b)
 def joke():
     print ('Ile nici ma dentysta?')
     print ('Stomatologiczne')
+    print ('o ho ho ')
     print ('hahaha')
 joke()
