@@ -20,6 +20,3 @@ def joke():
     print ('hahaha')
 joke()
 
-def shout():
-    print('AAAAAAAAAAAAAAAa')
-shout()
